@@ -1,0 +1,22 @@
+{
+  "name": "uploadFile",
+  "version": "1.0.0",
+  "description": "upload file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantomS4/fileUpload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomS4/fileUpload/issues"
+  },
+  "homepage": "https://github.com/phantomS4/fileUpload",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
